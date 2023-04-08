@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "AdvanceWitchery",
+    "name": "Advance Witchery",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "updateUrl": "",
+    "authorList": [
+      "nikita23830"
+    ],
+    "credits": "StreamCraft",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
